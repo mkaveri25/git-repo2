@@ -1,1 +1,2 @@
 echo " Hi welcome to jenkins "
+ls
